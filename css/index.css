@@ -1,0 +1,17 @@
+.a1{
+  /* background-color: rgb(241, 199, 225);*/
+  background: url(../images/m.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: rgb(10, 10, 10);
+}
+.a2{
+    background-color: rgb(206, 141, 181);
+ }
+ #b{
+     color: rgb(243, 21, 21);
+ }
+ form{
+     background-color: rgb(175, 160, 169);
+ }
